@@ -9,15 +9,15 @@ environment:
   sdk: ">=2.15.0 <3.0.0"
 
 dependencies:
-  cloud_firestore: ^3.1.6
+  cloud_firestore: ^4.8.0
 
-  firebase_auth: ^3.9.0
-  firebase_core: ^1.11.0
+  firebase_auth: ^4.6.2
+  firebase_core: ^2.13.1
   flutter:
     sdk: flutter
   flutter_bloc: ^8.0.1
   flutterfire_ui: ^0.4.3+9
-  intl: ^0.17.0
+  intl: ^0.18.0
 
 dev_dependencies:
 

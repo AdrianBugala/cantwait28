@@ -2,8 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:cantwait28/models/item_model.dart';
-import 'package:cantwait28/repositories/item_repository.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:cantwait28/repositories/item_repository.dart'; 
 
 part 'home_state.dart';
 
